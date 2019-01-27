@@ -53,11 +53,15 @@ section h2 {
     color: white;
     padding: 15px 20px 15px 20px;
     font-weight: normal;
+    margin-bottom: 20px;
+}
+
+.mt {
+    margin-top: 20px;
 }
 
 section h3 {
     background-color: #0C5E91;
-    margin-top: 20px;
     color: white;
     padding: 15px 20px 15px 20px;
     font-weight: normal;
@@ -76,4 +80,14 @@ section h3 {
     color: white;
     padding: 15px 20px 15px 20px;
     min-height: 150px;
+}
+
+.snippets {
+    display: none;
+}
+
+a {
+    color: inherit;
+    margin-left: 15px;
+    text-decoration: none;
 }

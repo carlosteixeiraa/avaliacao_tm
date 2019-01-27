@@ -1,7 +1,7 @@
 <?php 
     
-    $titulo = 'HTML - hyper text markup language';
-    $t_header = 'HTML <span>hyper text markup language</span>';
+    $titulo = 'CSS - cascading style sheets';
+    $t_header = 'CSS <span>cascading style sheets</span>';
 
     include 'includes/header.php' 
     
@@ -28,7 +28,7 @@
     </div>
 </section>
 
-<section id="md">
+<section>
     <h2>Metadados do documento</h2>
     <div class="snippets">
         <div class="boxes">
@@ -89,7 +89,7 @@
     </div>
 </section>
 
-<section id="rs">
+<section>
     <h2>Raiz de secção</h2>
     <div class="snippets">
         <div class="boxes">
@@ -110,7 +110,7 @@
     </div>
 </section>
 
-<section id="sc">
+<section>
     <h2>Secção de conteúdo</h2>
     <div class="snippets">
         <div class="boxes">
@@ -271,7 +271,7 @@
     </div>
 </section>
 
-<section id="ct">
+<section>
     <h2>Conteúdo de texto</h2>
     <div class="snippets">
         <div class="boxes">
@@ -505,7 +505,7 @@
 </section>
 
 
-<section id="ste">
+<section>
     <h2>Semântica de texto embutido</h2>
     <div class="snippets">
         <div class="boxes">
@@ -1010,7 +1010,7 @@
     </div>
 </section>
 
-<section id="im">
+<section>
     <h2>Imagem e Multimídia</h2>
     <div class="snippets">
         <div class="boxes">
@@ -1094,7 +1094,7 @@
     </div>
 </section>
 
-<section id="ci">
+<section>
     <h2>Conteúdo incorporado</h2>
     <div class="snippets">
         <div class="boxes">
@@ -1223,7 +1223,7 @@
     </div>
 </section>
 
-<section id="scc">
+<section>
     <h2>Script</h2>
     <div class="snippets">
         <div class="boxes">
@@ -1275,7 +1275,7 @@
     </div>
 </section>
 
-<section id="de">
+<section>
     <h2>Demarcando Edições</h2>
     <div class="snippets">
         <div class="boxes">
@@ -1311,7 +1311,7 @@
     </div>
 </section>
 
-<section id="ctt">
+<section>
     <h2>Conteúdo da Tabela</h2>
     <div class="snippets">
         <div class="boxes">
@@ -1467,7 +1467,7 @@
     </div>
 </section>
 
-<section id="fo">
+<section>
     <h2>Formularios</h2>
     <div class="snippets">
         <div class="boxes">
@@ -1680,7 +1680,7 @@
     </div>
 </section>
 
-<section id="ei">
+<section>
     <h2>Elementos interativos</h2>
     <div class="snippets">
         <div class="boxes">
@@ -1763,7 +1763,7 @@
     </div>
 </section>
 
-<section id="cw">
+<section>
     <h2>Componentes da Web</h2>
     <div class="snippets">
         <div class="boxes">
